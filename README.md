@@ -18,12 +18,12 @@ A web application for writing novels with features like character subsections, b
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/novel-writer.git
+    git clone https://github.com/AthiniMgagule/Write-Me.git
     ```
 
 2. Install backend dependencies:
     ```sh
-    cd novel-writer/backend
+    cd Write-Me/backend
     npm install
     ```
 
